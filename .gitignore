@@ -1,0 +1,5 @@
+.vercel
+.env*
+atlas-credentials.env
+node_modules/
+dist/
